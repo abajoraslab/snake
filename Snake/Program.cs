@@ -15,6 +15,7 @@ namespace Snake
 
             Console.WriteLine("Hello World - Привет Мир");
             Console.ReadLine();
+
         }
     }
 }
