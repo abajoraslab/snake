@@ -11,7 +11,7 @@ namespace Snake
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.Unicode; //konvertacija i Unicode -gerai veikia !!!
-                                                       //Console.InputEncoding = Encoding.Unicode; //konvertacija i Unicode -gerai veikia !!!
+            //Console.InputEncoding = Encoding.Unicode; //konvertacija i Unicode -gerai veikia !!!
 
             //int x1 = 1;
             //int y1 = 3;
